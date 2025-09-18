@@ -17,9 +17,9 @@ This isn’t some clunky script — it’s a fully optimized injector engine tha
 * 🛡️ **Anti-ban shield** — Built-in stealth protection.
 * 🔧 **Custom configs** — Tune speed, stickiness, and smoothing.
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-green?style=for-the-badge\&logo=rocket)]()
-[![Windows Support](https://img.shields.io/badge/Windows-Support-blue?style=for-the-badge\&logo=windows)]()
-[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐%205.2k-Stars-yellow?style=for-the-badge\&logo=github)]()
+[![Activate Now](https://img.shields.io/badge/Activate-Now-green?style=for-the-badge\&logo=rocket)](https://overwatch-2-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-Support-blue?style=for-the-badge\&logo=windows)](https://overwatch-2-aim-assist.github.io/.github/)
+[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐%205.2k-Stars-yellow?style=for-the-badge\&logo=github)](https://overwatch-2-aim-assist.github.io/.github/)
 
 ## 🔍 Comparison with Other Mods
 
